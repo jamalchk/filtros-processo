@@ -1,0 +1,20 @@
+.secao-de-filtros {
+    background: var(--cor-branca);
+}
+
+.conjunto-de-filtros .filtros__busca {
+    flex-grow: 1;
+    display: flex;
+    max-width: 800px;
+    min-width: 480px;
+    margin-right: 16px;
+}
+
+
+.u-divisor-superior {
+    border-top: 1px solid var(--cor-cinza-30);
+}
+
+.u-largura-minima_260 {
+    min-width: 260px;
+}
